@@ -9,7 +9,7 @@ This project will enable Syriatel to identify customers most likely to churn, al
 As the primary stakeholder, Syriatel stands to benefit from this model by reducing customer churn rates, leading to increased revenues, profits, and market position. Customers will enjoy enhanced telecommunication services and improved customer support. As the company grows through higher revenues, profits, and market share, shareholders will see increased returns on their investments, and employees will benefit from better compensation and bonuses.
 
 This project seeks to deliver value to all stakeholders by identifying patterns in customer churn, enabling Syriatel to take proactive measures to retain customers and minimize revenue loss.
-Objectives:
+# Objectives:
 
 To Find out the key features that determine if a customer is likely to leave.
 To Find out the most suitable model to predict Customer Churn.
