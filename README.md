@@ -1,5 +1,5 @@
 # Syriatel-Customer-Churn
-Business Understanding
+# Business Understanding
 In response to increasing competition, technological advancements, and globalization in the telecommunications market, Syriatel Mobile Telecom has emphasized the importance of enhancing customer satisfaction and retaining its customers. The company reaffirms its commitment to maintaining its market position by prioritizing customer satisfaction and social responsibility.
 
 While these efforts have been successful, Syriatel must further intensify its focus on reducing customer churn rates to safeguard its market position, profitability, and growth. Retaining its customer base will help the company reduce costs, prevent losses, and boost sales. Additionally, it will increase ROI, lower marketing expenses, enhance customer loyalty, and encourage new customer acquisition through referrals.
