@@ -22,3 +22,10 @@ The dataset consists of 3,333 entries and 21 columns, including details such as 
 In this section,several actions are taken to prepare our data for exploratory data analysis and modelling. The actions include importing all the necessary libraries, loading the dataset using pandas library, previewing the data and conducting thorough data preprocessing.
 # Modeling and Evaluation
 I created two models,that is, Logistic regression model and Decision Tree model.Logistic regression model is the base model.Decision tree model has a better performance compared to the logistic regression model.Decision tree has an accuracy of 94.8%.
+In conclusion, the analysis suggests that we can accurately predict customer churn using a machine learning model, with the Descision Tree Classifier being the recommended model due to its strong overall performance. As this is the best performing model with an ROC curve that is on the upper left corner of the graph, hence giving us the largest AUC (Area Under the curve).
+# Conclusion and Recommendations
+I would recommend that Syriatel uses the Descision Tree Classifier as the primary model for predicting customer churn. This model has a higher ROC curve and strong overall performance in terms of accuracy and F1-score on the test set, making it well-suited for accurately classifying customers as likely or unlikely to churn.
+
+In terms of Business strategic recommendations for SyriaTel, I would recommend a Customer Retention strategy that addresses key features in relation to call minutes and charges. These efforts could include personalized offers or discounts on day charges. By implementing cost-effective strategies that address the key factors driving customer churn, SyriaTel can retain customers and minimize revenue loss.
+
+I would recommend, that Syriatel comes up with strategies to reduce on Customer Service calls, as this is among the top features that would likely lead to Customer Churn.
